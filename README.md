@@ -84,3 +84,5 @@ Abraham Nava
 
 Data Science and Physics Student at UNAM
 
+Data Science, Machine Learning, Statistics, and Mathematical Modeling.
+
